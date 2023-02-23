@@ -1,3 +1,10 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Jeff Grimm
+ *
+ * @since Version 1.0
+ */
 import java.lang.reflect.*;
 
 public class Player {

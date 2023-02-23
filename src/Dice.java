@@ -1,3 +1,10 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Jeff Grimm
+ *
+ * @since Version 1.0
+ */
 import java.util.Random;
 import java.util.Scanner;
 public class Dice { //
